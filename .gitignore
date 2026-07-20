@@ -1,0 +1,7 @@
+.hyp-cli.json
+*.bak
+*.tmp
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
