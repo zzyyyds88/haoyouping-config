@@ -5,3 +5,10 @@
 Thumbs.db
 .idea/
 .vscode/
+
+# 敏感凭据（私人令牌、SSH 私钥等），禁止入库
+key.txt
+*.key
+*.pem
+secrets/
+.env
